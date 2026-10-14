@@ -1,0 +1,42 @@
+{
+  "name": "buy-buzz",
+  "version": "0.1.0",
+  "description": "Buy Buzz - Your Shopping Destination",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indianbgmi61-max/Buy-Buzz-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indianbgmi61-max/Buy-Buzz-/issues"
+  },
+  "homepage": "https://github.com/indianbgmi61-max/Buy-Buzz-#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vercel/analytics": "^2.0.1",
+    "autoprefixer": "^10.6.1",
+    "next": "^16.4.1",
+    "postcss": "^8.5.30",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^16.4.1"
+  }
+}
